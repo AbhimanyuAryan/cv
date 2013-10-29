@@ -8,8 +8,8 @@ Antonio C. Nalesso Moreira
 </div>
 --------------------------------------------------------------------------------------
 
-Personal Statement
-------------------
+About me
+--------
 
 My name is Antonio C Nalesso Moreira ( aka <code>acnalesso</code>), I have two nationalities
 Brazilian and Italian,<br />I live in London UK.<br />
@@ -43,7 +43,10 @@ Key Skills
 * Ruby ( >= 1.8 )
 * Ruby on Rails ( >= 2.0 )
 * Sinatra
+* Rack
 * HTML5, CSS3, Ajax, JSON, jQuery API.
+* GNU LINUX, OS Debian Wheezy
+* Shell scripts
 
 Testing Frameworks
 ------------------

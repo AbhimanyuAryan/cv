@@ -4,7 +4,7 @@ Antonio C. Nalesso Moreira
 <a href="mailto:acnalesso@yahoo.co.uk?Subject=Hello" target="_top"><b>Email</b></a><br />
 <a href="http://www.nbit001.wordpress.com" target="_blank"><b>Blog</b></a><br />
 <a href="http://www.github.com/acnalesso" target="_blank"><b>Github</b></a><br />
-<a href="#" target="_blank"><b>Tel: 0775622 8988</b></a><br />
+<a href="#" target="_blank"><b>Tel: +440775622 8988</b></a><br />
 </div>
 --------------------------------------------------------------------------------------
 

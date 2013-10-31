@@ -1,19 +1,11 @@
 Antonio C. Nalesso Moreira
 ==========================
-<<<<<<< HEAD
-Email acnalesso@yahoo.co.uk<br />
-[Blog](nbit001.wordpress.com)
-[Github](github.com/acnalesso)
-Tel: 0775622 8988
-
-=======
 <div align="right">
 <a href="mailto:acnalesso@yahoo.co.uk?Subject=Hello" target="_top"><b>Email</b></a><br />
 <a href="http://www.nbit001.wordpress.com" target="_blank"><b>Blog</b></a><br />
 <a href="http://www.github.com/acnalesso" target="_blank"><b>Github</b></a><br />
 <a href="#" target="_blank"><b>Tel: 0775622 8988</b></a><br />
 </div>
->>>>>>> 8539629eb27851eab39a7b4693ce457977956f76
 --------------------------------------------------------------------------------------
 
 About me
